@@ -16,6 +16,14 @@
 
 ## 📩 Connect with me
 <p align="left">
+  <a href="mailto:mohamadaljaber42@gmail.com" >
+    <img
+    align="center"
+      src="https://th.bing.com/th/id/R.ce199b2e785a2abf0b028f986d1fcae3?rik=wSF9K4JsEmnVkQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2fgmail_logo%2fgmail_logo_PNG2.png&ehk=1UuhhK6oyRQE2%2bmUHg4dO1wJAebVqT6PJ0xEdWF8Fxk%3d&risl=&pid=ImgRaw&r=0"
+      width="40"
+      height="30"
+    />
+  </a>
   <a
     href="https://linkedin.com/in/Mohamad-Aljaber"
     target="blank"
