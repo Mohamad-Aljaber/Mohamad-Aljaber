@@ -11,11 +11,6 @@
 </h3>
 <br />
 
-<img
-  align="right"
-  src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
-  width="250px"
-/>
 
 <br />
 
@@ -56,12 +51,19 @@
 <br />
 
 ## 🛠 Languages and Tools
+<img
+  align="right"
+  src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
+  width="400px"
+/>
 
 ### 👨‍💻 Programming Languages
+
 <p align="left" style="display: flex; gap: 10px">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
