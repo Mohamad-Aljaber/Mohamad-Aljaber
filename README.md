@@ -119,25 +119,17 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:mohamadaljaber42@gmail.com">
+  <a href="mailto:mohamadaljaber452@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://linkedin.com/in/Mohamad-Aljaber">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://fb.com/mohamad.aljaber.393">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
+ 
   <a href="https://www.instagram.com/mohamadaljaber_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/Mohamad-Aljaber/Mohamad-Aljaber/blob/output/github-contribution-grid-snake.svg)
----
-
+ 
 ⭐️ From [Mohamad Aljaber](https://github.com/YOUR_USERNAME)
