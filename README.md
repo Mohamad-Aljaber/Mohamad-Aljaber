@@ -108,9 +108,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamad-Aljaber&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohamad-Aljaber&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamad-Aljaber&theme=tokyonight" />
 </p>
@@ -138,8 +137,7 @@
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/YOUR_USERNAME/Mohamad-Aljaber/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/Mohamad-Aljaber/Mohamad-Aljaber/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ⭐️ From [Mohamad Aljaber](https://github.com/YOUR_USERNAME)
